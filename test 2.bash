@@ -2,7 +2,7 @@
 echo -n "Start Dir Browser y/n?"
 read startVar
 
-while [ $tartVar = "y" ]
+while [ $startVar = "y" ]
 do
 	echo "what dir do you want to see listed"
 	echo -n
